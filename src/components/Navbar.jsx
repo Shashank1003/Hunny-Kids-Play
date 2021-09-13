@@ -49,10 +49,10 @@ const Heading = styled.h1`
   font-size: 1.5rem;
 `;
 
-const SubHeading = styled.p`
-  font-weight: 400;
-  font-size: 0.9rem;
-`;
+// const SubHeading = styled.p`
+//   font-weight: 400;
+//   font-size: 0.9rem;
+// `;
 
 const Buttons = styled.div`
   display: flex;
